@@ -6,8 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": medo_mc.aternos.me
-    "port": 26650,
+    "ip": medosmp.aternos.me
+
+    "port": 27630,
     "version": "",
     "try-creative": false
   },
